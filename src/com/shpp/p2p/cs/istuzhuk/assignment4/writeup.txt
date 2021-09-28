@@ -1,0 +1,19 @@
+1. Описание глобальных переменных
+    private int ATTEMPTS; //The attempts of the game
+    private int NUMBER_BRICKS; //Total number of blocks
+    private double vx; //The X coordinate of the ball that changes the direction of flight
+    private double vy = 3.0; //The Y coordinate of the ball that changes the flight speed
+    GRect paddle;
+    GOval ball;
+    Color brickColor; //brick color. randomly changes every two lines
+    ArrayList<GRect> bricks //The array list which contains all the bricks
+
+    Все глобальные переменные используются в разных независимых друг от друга методах, и в каждом из этих методов
+    меняется их состояние (в случае обьектов) или значение (в случае переменных).
+
+2. Игра заканчивается когда пользователь теряет три попытки, или когда вся кирпичи разбиты.
+    В первом случае используется глобальная переменная ATTEMPTS (попытки), которая отнимается
+    с каждым проигрышем пока не будет равняться 0.
+
+    Во втором случае используется глобальная переменная NUMBER_BRICKS (общее колличество кирпичей), которая отнимается
+    с каждым разбитием кирпича пока не будет равняться 0.

@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.istuzhuk.assignment7.namesurfer;
+package com.shpp.p2p.cs.istuzhuk.namesurfer;
 
 /*
  * File: NameSurferConstants.java
@@ -23,7 +23,7 @@ public interface NameSurferConstants {
     /**
      * The name of the file containing the data
      */
-    public static final String NAMES_DATA_FILE = "src/com/shpp/p2p/cs/istuzhuk/assignment7/names-data.txt";
+    public static final String NAMES_DATA_FILE = "src/com/shpp/p2p/cs/istuzhuk/namesurfer/names-data.txt";
 
     /**
      * The first decade in the database

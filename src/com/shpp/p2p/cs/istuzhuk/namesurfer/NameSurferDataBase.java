@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.istuzhuk.assignment7.namesurfer;
+package com.shpp.p2p.cs.istuzhuk.namesurfer;
 
 /*
  * File: NameSurferDataBase.java

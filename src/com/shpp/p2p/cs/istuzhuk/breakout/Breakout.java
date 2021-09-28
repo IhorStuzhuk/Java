@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.istuzhuk.assignment4;
+package com.shpp.p2p.cs.istuzhuk.breakout;
 
 import acm.graphics.GLabel;
 import acm.graphics.GObject;

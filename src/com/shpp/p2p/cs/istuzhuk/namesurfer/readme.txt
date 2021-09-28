@@ -1,0 +1,1 @@
+This program implements a graphical display of the popularity of children's names stored in the file database.

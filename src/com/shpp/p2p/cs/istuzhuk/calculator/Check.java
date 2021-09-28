@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.istuzhuk.assignment11;
+package com.shpp.p2p.cs.istuzhuk.calculator;
 
 import java.util.ArrayList;
 

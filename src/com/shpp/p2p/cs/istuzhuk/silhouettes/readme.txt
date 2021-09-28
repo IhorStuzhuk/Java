@@ -1,0 +1,1 @@
+This program implements the counting of the number of silhouettes in a black and white image.

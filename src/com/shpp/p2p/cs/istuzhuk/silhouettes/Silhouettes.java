@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.istuzhuk.assignment13;
+package com.shpp.p2p.cs.istuzhuk.silhouettes;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -19,7 +19,7 @@ public class Silhouettes {
     // The boundary between black and white.
     private static final int BORDER_BETWEEN_WHITE_AND_BLACK = 127;
     // Path to image.
-    private static final String PATH_FILE = "src/com/shpp/p2p/cs/istuzhuk/assignment13/test48.jpg";
+    private static final String PATH_FILE = "com/shpp/p2p/cs/istuzhuk/silhouettes/test48.jpg";
     // Min silhouette size in pixels.
     private static final int MIN_SILHOUETTE_SIZE = 250;
 
